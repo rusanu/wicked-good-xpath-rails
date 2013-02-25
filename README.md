@@ -6,7 +6,7 @@ Provides an easy to use Rails 3.1 asset gem for wicked-good-xpath Javascript lib
 INSTALL
 ------
 
-    gem 'wicked-good-xpath-rails', git => 'git://github.com/rusanu/wicked-good-xpath-rails.git'
+    gem 'wicked-good-xpath-rails', :git => 'git://github.com/rusanu/wicked-good-xpath-rails.git'
 
 USE
 ---
